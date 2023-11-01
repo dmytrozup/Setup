@@ -1,0 +1,5 @@
+.gitignore
+next.config.js
+*.module.scss
+*.css
+README.md
